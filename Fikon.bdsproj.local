@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2008/09/09 13:02:04.437.pas,C:\Documents and Settings\nn0535\My Documents\Borland Studio Projects\Unit2.pas=C:\Documents and Settings\nn0535\Desktop\Fikon\FikonU.pas</Transaction>
+    <Transaction>2008/09/09 13:02:07.562.pas,C:\Documents and Settings\nn0535\My Documents\Borland Studio Projects\Unit1.pas=C:\Documents and Settings\nn0535\Desktop\Fikon\MainU.pas</Transaction>
+    <Transaction>2008/09/09 13:02:07.562.dfm,C:\Documents and Settings\nn0535\My Documents\Borland Studio Projects\Unit1.dfm=C:\Documents and Settings\nn0535\Desktop\Fikon\MainU.dfm</Transaction>
+    <Transaction>2008/09/09 13:02:10.828.bdsproj,C:\Documents and Settings\nn0535\My Documents\Borland Studio Projects\Project1.bdsproj=C:\Documents and Settings\nn0535\Desktop\Fikon\Fikon.bdsproj</Transaction>
+    <Transaction>2008/09/09 20:42:42.140.pas,C:\Documents and Settings\nn0535\Desktop\Fikon\Unit2.pas=C:\Documents and Settings\nn0535\Desktop\Fikon\BackU.pas</Transaction>
+    <Transaction>2008/09/09 20:42:42.140.dfm,C:\Documents and Settings\nn0535\Desktop\Fikon\Unit2.dfm=C:\Documents and Settings\nn0535\Desktop\Fikon\BackU.dfm</Transaction>
+    <Transaction>2008/09/09 20:42:52.156.pas,C:\Documents and Settings\nn0535\Desktop\Fikon\Unit1.pas=C:\Documents and Settings\nn0535\Desktop\Fikon\Fikon2U.pas</Transaction>
+    <Transaction>2008/09/09 20:57:54.640.pas,C:\Documents and Settings\nn0535\Desktop\Fikon\BackU.pas=</Transaction>
+    <Transaction>2008/09/09 20:57:54.640.dfm,C:\Documents and Settings\nn0535\Desktop\Fikon\BackU.dfm=</Transaction>
+  </Transactions>
+</BorlandProject>
